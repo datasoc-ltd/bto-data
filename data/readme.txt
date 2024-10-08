@@ -1,0 +1,1 @@
+Unzip the data from https://www.bto.org/sites/default/files/atlas_open_data_files.zip and copy the CSV files into this directory
